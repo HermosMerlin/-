@@ -1,0 +1,6 @@
+﻿  HappyNewYear.cpp
+D:\CODE\EazyX_test1\新年快乐\HappyNewYear.cpp(30,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\CODE\EazyX_test1\新年快乐\HappyNewYear.cpp(51,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\CODE\EazyX_test1\新年快乐\HappyNewYear.cpp(56,27): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+D:\CODE\EazyX_test1\新年快乐\HappyNewYear.cpp(72,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  新年快乐.vcxproj -> D:\CODE\EazyX_test1\x64\Debug\新年快乐.exe
